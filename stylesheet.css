@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(39, 43, 43);
+    color: rgb(185, 171, 150);
+    line-height: 150%;
+}
+
+.title {
+    font-size: 32px;
+    color: teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.list-element {
+    text-align: center;
+    list-style-type:none;
+    list-style-position: inside;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.paragraph {
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-block: 8px;
+    max-width: 600px;
+    text-align: center;
+    margin:0 auto;
+}
+
+.image {
+    margin: 0 auto;
+    display:block;
+    height: 400px;
+    width: auto;
+}
+
+.steps {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-block: 8px;
+    max-width: 600px;
+    text-align: center;
+    margin:0 auto;
+    list-style-type:decimal;
+    list-style-position: inside;
+}
+
+a {
+    color:inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.title-image {
+    margin: 0 auto;
+    display:block;
+}
